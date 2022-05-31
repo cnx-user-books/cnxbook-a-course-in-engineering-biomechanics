@@ -1,0 +1,1166 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Lectures notes and readings</title>
+  <metadata>
+  <md:content-id>m27924</md:content-id><md:title>Lectures notes and readings</md:title>
+  <md:abstract/>
+  <md:uuid>dcebfeb6-1cb4-4594-a76a-36fe7742fbe7</md:uuid>
+</metadata>
+
+<content>
+    <table id="id7039631" summary=""><tgroup cols="5">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <tbody>
+          <row>
+            <entry>
+              <emphasis>Chapter #</emphasis>
+            </entry>
+            <entry>
+              <emphasis>Title</emphasis>
+            </entry>
+            <entry>
+              <emphasis>Power Point Slices to download</emphasis>
+            </entry>
+            <entry>
+              <emphasis>Readings to download</emphasis>
+            </entry>
+            <entry>
+              <emphasis>References</emphasis>
+              <emphasis/>
+            </entry>
+          </row>
+          <row>
+            <entry>1</entry>
+            <entry>Course Expectations</entry>
+            <entry>
+              <link resource="1-Slides-CourseIntro.pdf">1-Slides-CourseIntro.pdf</link>
+            </entry>
+            <entry>
+              <link resource="1-ReadingSyllibusandDesignProjBiomechanics.pdf">1-ReadingSyllibus&amp;DesignProjBiomechanics.pdf</link>
+            </entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>2</entry>
+            <entry>Introduction: History</entry>
+            <entry>
+              <link resource="2-Slides - History.pdf">2-Slides - History.pdf</link>
+            </entry>
+            <entry>
+              <link resource="2-Reading - Cambridge.pdf">2-Reading - Cambridge.pdf</link>
+            </entry>
+            <entrytbl cols="1">
+              <colspec colnum="1" colname="c1"/>
+              <tbody>
+                <row>
+                  <entry>Either C. and Simmons C. Introductory Biomechanics: From Cells to Organisms. Cambridge University Press: Cambridge, 2007. &lt;<link url="http://assets.cambridge.org/97805218/41122/excerpt/9780521841122_excerpt.pdf">http://assets.cambridge.org/97805218/41122/excerpt/9780521841122_excerpt.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Hedge A., 2008. Structure and Function of the Musculoskeletal System. Cornell University. &lt;<link url="http://ergo.human.cornell.edu/studentdownloads/DEA3250pdfs/biomechanics.pdf">http://ergo.human.cornell.edu/studentdownloads/DEA3250pdfs/biomechanics.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Nierengarten M., 2005. Chapter 6: Biomechanical Foundations of Physical Education and Sport. University of Minnesota Duluth. &lt;<link url="http://www.d.umn.edu/~mniereng/documents/chap6.ppt">www.d.umn.edu/~mniereng/documents/chap6.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Ploeg H., 2008. BME 515: Prosthetic Joints. University of Wisconsin-Madison. &lt;<link url="http://ecow.engr.wisc.edu/cgi-bin/getbig/bme/515/tompkins/lecturesli/prostheticjoints2007.pdf">http://ecow.engr.wisc.edu/cgi-bin/getbig/bme/515/tompkins/lecturesli/prostheticjoints2007.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Prendergast P., 2008. Introduction to Biomechanics: Implant Engineering and Tissue Mechanics. Trinity Centre for Bioengineering. &lt;<link url="http://www.tcd.ie/bioengineering/documents/IntroBiomech2008.pdf">http://www.tcd.ie/bioengineering/documents/IntroBiomech2008.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Thomas S. and Supan T., 1990. A Comparison of Current Biomechanical Terms. Journal of Prosthetics &amp; Orthotics.2(2): 107-114. &lt;<link url="http://www.oandp.org/jpo/library/1990_02_107.asp">http://www.oandp.org/jpo/library/1990_02_107.asp</link>&gt;.</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry>3</entry>
+            <entry>Introduction to Design: The Process</entry>
+            <entry>
+              <link resource="3-Slides- DesignProcess.pdf">3-Slides- DesignProcess.pdf</link>
+            </entry>
+            <entry>
+              <link resource="3-Reading-EngrDesignProcess.pdf">3-Reading-EngrDesignProcess.pdf</link>
+            </entry>
+            <entrytbl cols="1">
+              <colspec colnum="1" colname="c1"/>
+              <tbody>
+                <row>
+                  <entry>ABET Inc., ABET 2009-2010 Criteria for Accrediting Engineering Program, pg. 2-3, &lt;<link url="http://abet.org/Linked Documents-UPDATE/Criteria and PP/E001 09-10 EAC Criteria 12-01-08.pdf">http://abet.org/Linked Documents-UPDATE/Criteria and PP/E001 09-10 EAC Criteria 12-01-08.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Karsnitz, J.R., O’Brien, S., Hutchinson, J.P., 2008, Engineering Design: An Introduction, Delmar Cengage Learning, &lt;<link url="http://cengagesites.com/academic/?site=3022&amp;section=3">http://cengagesites.com/academic/?site=3022&amp;section=3</link>&gt;</entry>
+                </row>
+                <row>
+                  <entry>NASA Engineering Design Challenge, 2009, &lt;<link url="http://www.nasa.gov/audience/foreducators/plantgrowth/reference/Eng_Design_5-12.html">http://www.nasa.gov/audience/foreducators/plantgrowth/reference/Eng_Design_5-12.html</link>&gt;</entry>
+                </row>
+                <row>
+                  <entry>Strong, D., 2009, The Engineering Design Process, University of Victoria, Faculty of Engineering, Version 1.2, &lt;<link url="http://www.design.engr.uvic.ca/uploads/engr400-designprocess.pdf">http://www.design.engr.uvic.ca/uploads/engr400-designprocess.pdf</link>&gt;</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry>4</entry>
+            <entry>Kinetics:Forces (Linear velocities, accelerations)</entry>
+            <entry>
+              <link resource="4-Slides - Kinetics.pdf">4-Slides - Kinetics.pdf</link>
+            </entry>
+            <entry>
+              <link resource="4-Reading - Sellers.pdf">4-Reading - Sellers.pdf</link>
+            </entry>
+            <entrytbl cols="1">
+              <colspec colnum="1" colname="c1"/>
+              <tbody>
+                <row>
+                  <entry>Bajekal R., 2008. Biomechanics of the Hip. Barts and the London Basic Science. &lt;<link url="http://www.bartsandthelondon.org.uk/docs/bajekal_hip_biomechanics.pdf">www.bartsandthelondon.org.uk/docs/</link><link url="http://www.bartsandthelondon.org.uk/docs/bajekal_hip_biomechanics.pdf">bajekal_hip_biomechanics</link><link url="http://www.bartsandthelondon.org.uk/docs/bajekal_hip_biomechanics.pdf">.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Jung I., 2008. Chapter 13 Kinetics of Particles: Energy and Momentum Methods. Saint Martin’s College. &lt;<link url="http://homepages.stmartin.edu/fac_staff/ijung/chapt13_kinetics of particle_ energy and momentum.ppt">http://homepages.stmartin.edu/fac_staff/ijung/chapt13_kinetics of particle_ energy and momentum.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Sellers B., 2006. Fundamentals of Biomechanics. University of Manchester. &lt;<link url="http://homepage.mac.com/wis/Personal/lectures/biomechanics/BiomechanicsLectures.pdf">http://homepage.mac.com/wis/Personal/lectures/biomechanics/BiomechanicsLectures.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Sterner R., 2008. Biomechanical Concepts of Linear Kinetics. Rowan University. &lt;<link url="http://users.rowan.edu/%7Esterner/ATKinesiology/Lecture/BiomechanicalConceptsofLinearKinetics.ppt">http://users.rowan.edu/~sterner/ATKinesiology/Lecture/BiomechanicalConceptsofLinearKinetics.ppt</link>&gt;.</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry>5</entry>
+            <entry>Introduction to Design:The Report</entry>
+            <entry>
+              <link resource="5-Slides- Design Report.pdf">5-Slides- Design Report.pdf</link>
+            </entry>
+            <entry>
+              <link resource="5-Reading-DesignReportGuidelines.pdf">5-Reading-DesignReportGuidelines.pdf</link>
+            </entry>
+            <entry>Florida Atlantic University, Engineering Design-ED2 Report Guidelines, <link url="http://www.writing.engr.edu/workboods/design.html">www.writing.engr.edu/workboods/design.html</link>, 4 pps, accessed January 2009.</entry>
+          </row>
+          <row>
+            <entry>6</entry>
+            <entry>Kinematics</entry>
+            <entry>
+              <link resource="6-Slides - Kinematics.pdf">6-Slides - Kinematics.pdf</link>
+            </entry>
+            <entry> <link resource="6-Reading - Robertsonch5pt1.pdf">6-Reading - Robertsonch5pt1.pdf</link>;  <link resource="6-Reading - Robertsonch5pt2.pdf">6-Reading - Robertsonch5pt2.pdf</link></entry>
+            <entrytbl cols="1">
+              <colspec colnum="1" colname="c1"/>
+              <tbody>
+                <row>
+                  <entry>Biolab, 2008. An Introduction to Angular Kinematics. The Higher Education Academy. &lt;<link url="http://www.biolab.org.uk/files/ang_Kinematics/lecture_introduction.ppt">www.biolab.org.uk/files/ang_Kinematics/</link><link url="http://www.biolab.org.uk/files/ang_Kinematics/lecture_introduction.ppt">lecture_introduction</link><link url="http://www.biolab.org.uk/files/ang_Kinematics/lecture_introduction.ppt">.</link><link url="http://www.biolab.org.uk/files/ang_Kinematics/lecture_introduction.ppt">ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Ekwue E., 2008. ME13A: Engineering Statics, Chapter Two: Statics of Particles. University of the West Indies. &lt;<link url="http://www.eng.uwi.tt/depts/mech/ugrad/courses/notes/me13achapter1and2.ppt">www.eng.uwi.tt/depts/mech/ugrad/courses/notes/</link><link url="http://www.eng.uwi.tt/depts/mech/ugrad/courses/notes/me13achapter1and2.ppt">me13achapter1and2</link><link url="http://www.eng.uwi.tt/depts/mech/ugrad/courses/notes/me13achapter1and2.ppt">.</link><link url="http://www.eng.uwi.tt/depts/mech/ugrad/courses/notes/me13achapter1and2.ppt">ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Gabauer D., 2008. Engineering Mechanics: Statics. Virginia Tech University. &lt;<link url="http://www.cib.vt.edu/pdfs/Statics.ppt">www.cib.vt.edu/pdfs/Statics.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Hall C., 2008. Attitude Kinematics. Virginia Tech University. &lt;<link url="http://www.aoe.vt.edu/~cdhall/courses/aoe4140/kinematics.ppt">www.aoe.vt.edu/~cdhall/courses/aoe4140/</link><link url="http://www.aoe.vt.edu/~cdhall/courses/aoe4140/kinematics.ppt">kinematics</link><link url="http://www.aoe.vt.edu/~cdhall/courses/aoe4140/kinematics.ppt">.</link><link url="http://www.aoe.vt.edu/~cdhall/courses/aoe4140/kinematics.ppt">ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Legh B., 2009. High Performance Strength and Conditioning. University of British Columbia. &lt;<link url="http://www.hkin.educ.ubc.ca/faculty/leghb/HKIN303/303notes1.ppt">www.hkin.educ.ubc.ca/faculty/leghb/HKIN303/</link><link url="http://www.hkin.educ.ubc.ca/faculty/leghb/HKIN303/303notes1.ppt">303notes1</link><link url="http://www.hkin.educ.ubc.ca/faculty/leghb/HKIN303/303notes1.ppt">.</link><link url="http://www.hkin.educ.ubc.ca/faculty/leghb/HKIN303/303notes1.ppt">ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Rabiei A., 2007. Vector Mechanics for Engineers: Statics, Introduction. North Carolina State University. &lt;<link url="http://www.mae.ncsu.edu/courses/mae206/rabiei/ch01.ppt">http://www.mae.ncsu.edu/courses/mae206/rabiei/ch01.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Rabiei A., 2007. Vector Mechanics for Engineers: Statics, Equilibrium of Rigid Bodies. North Carolina State University. &lt;<link url="http://www.mae.ncsu.edu/courses/mae206/rabiei/ch04.ppt">www.mae.ncsu.edu/courses/mae206/rabiei/ch04.</link><link url="http://www.mae.ncsu.edu/courses/mae206/rabiei/ch04.ppt">ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Robertson D., 2009. Chapter 5: Kinematics, Part 1: Linear Kinematics. School of Human Kinetics, University of Ottawa. &lt;<link url="http://www.health.uottawa.ca/biomech/courses/apa2313/lkinem.pdf">http://www.health.uottawa.ca/biomech/courses/apa2313/lkinem.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Robertson D., 2009. Chapter 5: Kinematics, Part 2: Projectile Motion. School of Human Kinetics, University of Ottawa. &lt;<link url="http://www.health.uottawa.ca/biomech/courses/apa2313/projectl.pdf">http://www.health.uottawa.ca/biomech/courses/apa2313/projectl.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Robertson D., 2009. Chapter 5: Kinematics, Part 3: Angular Kinematics. School of Human Kinetics, University of Ottawa. &lt;<link url="http://www.health.uottawa.ca/biomech/courses/apa2313/akinem.pdf">http://www.health.uottawa.ca/biomech/courses/apa2313/akinem.pdf</link>&gt;.</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry>7</entry>
+            <entry>Introduction to Design:The Presentation</entry>
+            <entry>
+              <link resource="7-Slides-TechnicalPresentations.pdf">7-Slides-TechnicalPresentations.pdf</link>
+            </entry>
+            <entry>
+              <link resource="7-Reading-TechnicalPresentations.pdf">7-Reading-TechnicalPresentations.pdf</link>
+            </entry>
+            <entrytbl cols="1">
+              <colspec colnum="1" colname="c1"/>
+              <tbody>
+                <row>
+                  <entry>Hall, Damon, Electrical Engineering Department, University of Utah, <link url="http://www.ece.utah.edu/~cfurse/CLEAR/speaking/Handouts/Tech slide presentation.ppt">www.ece.utah.edu/~cfurse/CLEAR/speaking/Handouts/Tech slide </link><link url="http://www.ece.utah.edu/~cfurse/CLEAR/speaking/Handouts/Tech slide presentation.ppt">presentation</link><link url="http://www.ece.utah.edu/~cfurse/CLEAR/speaking/Handouts/Tech slide presentation.ppt">.ppt</link> -, 38 pps, accessed January 2009.</entry>
+                </row>
+                <row>
+                  <entry>Florida Atlantic University, Engineering Design-ED2 Report Guidelines, <link url="http://www.writing.engr.edu/workboods/design.html">www.writing.engr.edu/workboods/design.html</link>, 4 pps, accessed January 2009.</entry>
+                </row>
+                <row>
+                  <entry>Presentation Tips- How to Structure a Technical Presentation, <link url="http://www.home.hs-karlsruhe.de/~kech0001/ifs/ex-en/tech_exercises/Technical_English_presentations.pdf">www.home.hs-karlsruhe.de/~kech0001/ifs/ex-en/tech_exercises/Technical_English_presentations.pdf</link>, accessed January, 6 pps, 2009.</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry>8</entry>
+            <entry>Statics:Basics</entry>
+            <entry>
+              <link resource="8-Slides - Statics.pdf">8-Slides - Statics.pdf</link>
+            </entry>
+            <entry> <link resource="8-Reading - Robertsonch3pt1.pdf">8-Reading - Robertsonch3pt1.pdf</link>;  <link resource="8-Reading - Robertsonch3pt2.pdf">8-Reading - Robertsonch3pt2.pdf</link>;  <link resource="8-Reading - Robertsonch4.pdf">8-Reading - Robertsonch4.pdf</link></entry>
+            <entrytbl cols="1">
+              <colspec colnum="1" colname="c1"/>
+              <tbody>
+                <row>
+                  <entry>Ekwue E., 2008. ME13A: Engineering Statics, Chapter Two: Statics of Particles. University of the West Indies. &lt;<link url="http://www.eng.uwi.tt/depts/mech/ugrad/courses/notes/me13achapter1and2.ppt">www.eng.uwi.tt/depts/mech/ugrad/courses/notes/</link><link url="http://www.eng.uwi.tt/depts/mech/ugrad/courses/notes/me13achapter1and2.ppt">me13achapter1and2</link><link url="http://www.eng.uwi.tt/depts/mech/ugrad/courses/notes/me13achapter1and2.ppt">.</link><link url="http://www.eng.uwi.tt/depts/mech/ugrad/courses/notes/me13achapter1and2.ppt">ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Gabauer D., 2008. Engineering Mechanics: Statics. Virginia Tech University. &lt;<link url="http://www.cib.vt.edu/pdfs/Statics.ppt">www.cib.vt.edu/pdfs/Statics.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Katafygiotis L., 2008. Engineering Mechanics: Statics, Teaching Slides Chapter 2: Vectors. The Hong Kong University of Science and Technology. &lt;<link url="http://teaching.ust.hk/~civl113/download/ch02a.ppt">http://teaching.ust.hk/~civl113/download/ch02a.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Rabiei A., 2007. Vector Mechanics for Engineers: Statics, Introduction. North Carolina State University. &lt;<link url="http://www.mae.ncsu.edu/courses/mae206/rabiei/ch01.ppt">http://www.mae.ncsu.edu/courses/mae206/rabiei/ch01.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Robertson D., 2009. Chapter 3: Statics, Part 1: Gravity and Forces. School of Human Kinetics, University of Ottawa. &lt;<link url="http://www.health.uottawa.ca/biomech/courses/apa2313/statics1.pdf">http://www.health.uottawa.ca/biomech/courses/apa2313/statics1.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Robertson D., 2009. Chapter 3: Statics, Part 2: Levers and Moments of Force. School of Human Kinetics, University of Ottawa. &lt;<link url="http://www.health.uottawa.ca/biomech/courses/apa2313/statics2.pdf">http://www.health.uottawa.ca/biomech/courses/apa2313/statics2.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Robertson D., 2009. Chapter 4: Dry Friction. School of Human Kinetics, University of Ottawa. &lt;<link url="http://www.health.uottawa.ca/biomech/courses/apa2313/friction.pdf">http://www.health.uottawa.ca/biomech/courses/apa2313/friction.pdf</link>&gt;.</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry>9</entry>
+            <entry>Human Anatomy:Musculoskeletal System</entry>
+            <entry>
+              <link resource="9-Slides – Anatomy.pdf">9-Slides – Anatomy.pdf</link>
+            </entry>
+            <entry>
+              <link resource="9-Reading - Anatomy.pdf">9-Reading - Anatomy.pdf</link>
+            </entry>
+            <entrytbl cols="1">
+              <colspec colnum="1" colname="c1"/>
+              <tbody>
+                <row>
+                  <entry>2008. Chapter 32 of Spring 2008 EMT-B Class.. Spotsylvania Volunteer Rescue Squad. &lt;<link url="http://www.spotsyrescue.org/content/classes/File/File/CH32_IB.ppt">www.spotsyrescue.org/content/classes/File/File/</link><link url="http://www.spotsyrescue.org/content/classes/File/File/CH32_IB.ppt">CH32_IB</link><link url="http://www.spotsyrescue.org/content/classes/File/File/CH32_IB.ppt">.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Ames, S. Applied Anatomy and Physiology: A Case Study Approach, Chapter 5. Windsor High School. &lt;<link url="http://www.windsorhs.com/staff/admin/uploads/Ames11/AP_CH05.ppt">www.windsorhs.com/staff/admin/uploads/Ames11/</link><link url="http://www.windsorhs.com/staff/admin/uploads/Ames11/AP_CH05.ppt">AP_CH05</link><link url="http://www.windsorhs.com/staff/admin/uploads/Ames11/AP_CH05.ppt">.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Farr G., 2003. The Body: The Musculoskeletal System. Become Healthy Now.com. &lt;<link url="http://www.becomehealthynow.com/category/bodymusculo/">http://www.becomehealthynow.com/category/bodymusculo/</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Garner B., 2003. Lecture 13 – Anatomy I. Baylor University. </entry>
+                </row>
+                <row>
+                  <entry>Yancey P., 2007. The Human Skeleton. Whitman College. </entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry>10</entry>
+            <entry>Statics:Bioapplications</entry>
+            <entry>
+              <link resource="10-Slides - Statics.pdf">10-Slides - Statics.pdf</link>
+            </entry>
+            <entry>
+              <link resource="10-Reading - Goyal-4.pdf">10-Reading - Goyal-4.pdf</link>
+            </entry>
+            <entrytbl cols="1">
+              <colspec colnum="1" colname="c1"/>
+              <tbody>
+                <row>
+                  <entry>Gabauer D., 2008. Engineering Mechanics: Statics. Virginia Tech University. &lt;<link url="http://www.cib.vt.edu/pdfs/Statics.ppt">www.cib.vt.edu/pdfs/Statics.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Goyal M., 2004. Engineering Biomechanics: Statics. University of Puerto Rico. &lt;<link url="http://academic.uprm.edu/~mgoyal/staticsmay2004/i14may04list.pdf">http://academic.uprm.edu/~mgoyal/staticsmay2004/i14may04list.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Iatridis J., 2008. Biomechanics of the Knee. University of Vermont. &lt;<link url="http://www.cem.uvm.edu/~iatridis/me207/knee_biomechanics.pdf">http://www.cem.uvm.edu/~iatridis/me207/knee_biomechanics.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Justice B., 2005. Biomechanics of Fracture and Fixation. San Francisco Orthopaedic Residency Program. &lt;<link url="http://www.sforp.org/Lecture Archives/Trauma/Biomechanics of Fracture and Fixation Justice 10.3.2005.ppt">http://www.sforp.org/Lecture Archives/Trauma/Biomechanics of Fracture and Fixation Justice 10.3.2005.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Nierengarten M., 2005. Chapter 6: Biomechanical Foundations of Physical Education and Sport. University of Minnesota Duluth. &lt;<link url="http://www.d.umn.edu/~mniereng/documents/chap6.ppt">www.d.umn.edu/~mniereng/documents/chap6.ppt</link>&gt;.</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry>11</entry>
+            <entry>Human Anatomy: Simple &amp; Articulating Joints</entry>
+            <entry>
+              <link resource="11-Slides - Anatomy.pdf">11-Slides - Anatomy.pdf</link>
+            </entry>
+            <entry>
+              <link resource="11-Reading - Harmony.pdf">11-Reading - Harmony.pdf</link>
+            </entry>
+            <entrytbl cols="1">
+              <colspec colnum="1" colname="c1"/>
+              <tbody>
+                <row>
+                  <entry>2008. Chapter 32 of Spring 2008 EMT-B Class.. Spotsylvania Volunteer Rescue Squad. &lt;<link url="http://www.spotsyrescue.org/content/classes/File/File/CH32_IB.ppt">www.spotsyrescue.org/content/classes/File/File/</link><link url="http://www.spotsyrescue.org/content/classes/File/File/CH32_IB.ppt">CH32_IB</link><link url="http://www.spotsyrescue.org/content/classes/File/File/CH32_IB.ppt">.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Biology: The Human Skeleton. Second Level Support Service. &lt;<link url="http://www.biology.slss.ie/resources/Human Skeleton.ppt">www.biology.slss.ie/resources/</link><link url="http://www.biology.slss.ie/resources/Human Skeleton.ppt">Human</link><link url="http://www.biology.slss.ie/resources/Human Skeleton.ppt"> </link><link url="http://www.biology.slss.ie/resources/Human Skeleton.ppt">Skeleton</link><link url="http://www.biology.slss.ie/resources/Human Skeleton.ppt">.</link><link url="http://www.biology.slss.ie/resources/Human Skeleton.ppt">ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Garner B., 2003. Joint Anatomy – Part 1. Baylor University. </entry>
+                </row>
+                <row>
+                  <entry>Joint Anatomy and Basic Biomechanics. Harmony Medical. &lt;<link url="http://www.harmonymedical.co.uk/assets/0000/4809/namein.pdf">http://www.harmonymedical.co.uk/assets/0000/4809/namein.pdf</link>&gt;.</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry>12</entry>
+            <entry>Mechanics of Materials: Stress and Strain</entry>
+            <entry>
+              <link resource="12-Slides - Mechanics of Materials.pdf">12-Slides - Mechanics of Materials.pdf</link>
+            </entry>
+            <entry>
+              <link resource="12-Reading - Rezaei.pdf">12-Reading - Rezaei.pdf</link>
+            </entry>
+            <entrytbl cols="1">
+              <colspec colnum="1" colname="c1"/>
+              <tbody>
+                <row>
+                  <entry>Grimm M. and Atkinson T., 2002. Structure and Function Articular Cartilage. Wayne State University. &lt;<link url="http://ttb.eng.wayne.edu/~grimm/BME5210/Lecture7.pdf">http://ttb.eng.wayne.edu/~grimm/BME5210/Lecture7.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Le T., 2005. Biomechanics of Fractures and Fixation. Orthopaedic Trauma Association. &lt;<link url="http://www.ota.org/res_slide/G08_Biomechanics.ppt">www.ota.org/res_slide/</link><link url="http://www.ota.org/res_slide/G08_Biomechanics.ppt">G08_Biomechanics</link><link url="http://www.ota.org/res_slide/G08_Biomechanics.ppt">.</link><link url="http://www.ota.org/res_slide/G08_Biomechanics.ppt">ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Noffal G., 2006. Chapter 3 – Joint and Materials Mechanics. California State University, Fullerton. &lt;faculty.fullerton.edu/gnoffal/Courses/463 Course/Chapter 3 - biomechanics 2.ppt&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Rezaei A., 2006. Chapter 1: Introduction – Concept of Stress. California State Polytechnic University, Pomona. &lt;<link url="http://www.csupomona.edu/~agrezaei/classes/ME218StrengthofMaterials/PowerpointPresentations/1_introduction.pdf">http://www.csupomona.edu/~agrezaei/classes/ME218StrengthofMaterials/PowerpointPresentations/1_introduction.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Seeley M., 2008. Bone Biomechanics. Brigham Young University. &lt;<link url="http://neon.byu.edu/%7Eseeleym/exsc362%28seeley%29/chapter09_files/bone_biomech.pdf">http://neon.byu.edu/~seeleym/exsc362(seeley)/chapter09_files/bone_biomech.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Wei Q., 2006. MEGR 3152: Mechanics and Materials Labs, Lecture 02: Stress-strain Behaviors of Certain Materials. University of North Carolina at Charlotte. &lt;<link url="http://www.mees.uncc.edu/~qwei/Teaching.htm/MEGR 3152/LectureNotes/Leture 02.ppt">www.mees.uncc.edu/~qwei/Teaching.htm/MEGR 3152/LectureNotes/Leture 02.ppt</link>&gt;.</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry>13</entry>
+            <entry>Getting Acquainted with Elluminate</entry>
+            <entry/>
+            <entry><link resource="13-Reading">13-Reading#2ElluminateRef.pdf</link>; <link resource="13-Reading">13-Reading#1ElluminateQuickRefGuide-v9.pdf</link></entry>
+            <entry>2007. Participant’s Guide: Version 8. Elluminate Live. &lt;<link url="http://www.elluminate.com/support/docs/8.0/Elluminate_Live_V8_Participant_Guide.pdf">http://www.elluminate.com/support/docs/8.0/Elluminate_Live_V8_Participant_Guide.pdf</link>&gt;.</entry>
+          </row>
+          <row>
+            <entry>14</entry>
+            <entry>Mechanics of Materials: Material Properties</entry>
+            <entry>
+              <link resource="14-Slides - Mechanics of Materials.pdf">14-Slides - Mechanics of Materials.pdf</link>
+            </entry>
+            <entry><link resource="14-Reading - Rezaeich2pt1.pdf">14-Reading - Rezaeich2pt1.pdf</link>; <link resource="14-Reading - Rezaeich2pt2.pdf">14-Reading - Rezaeich2pt2.pdf</link></entry>
+            <entrytbl cols="1">
+              <colspec colnum="1" colname="c1"/>
+              <tbody>
+                <row>
+                  <entry>Gateway Engineering Education Coalition, 2008. Stress and Strain: Lab 4. The Ohio State University. &lt;<link url="http://www.gatewaycoalition.org/files/h192/labs/Lab 5 - Stress and Strain/Lab 5 - Stress and Strain.ppt">http://www.gatewaycoalition.org/files/h192/labs/Lab 5 - Stress and Strain/Lab 5 - Stress and Strain.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Noffal G., 2006. Chapter 3 – Joint and Materials Mechanics. California State University, Fullerton. &lt;faculty.fullerton.edu/gnoffal/Courses/463 Course/Chapter 3 - biomechanics 2.ppt&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Ong C., 2008. Chapter 2 Mechanics of Materials. The Hong Kong Polytechnic University. &lt;<link url="http://ap.polyu.edu.hk/apacwong/MechanChap2.ppt">http://ap.polyu.edu.hk/apacwong/MechanChap2.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Rezaei A., 2006. Chapter 2: Stress and Strain – Axial Loading Part 1. California State Polytechnic University, Pomona. &lt;<link url="http://www.csupomona.edu/~agrezaei/classes/ME218StrengthofMaterials/PowerpointPresentations/2_1_axial_loading.pdf">http://www.csupomona.edu/~agrezaei/classes/ME218StrengthofMaterials/PowerpointPresentations/2_1_axial_loading.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Rezaei A., 2006. Chapter 2: Stress and Strain – Axial Loading Part 2. California State Polytechnic University, Pomona. &lt;<link url="http://www.csupomona.edu/~agrezaei/classes/ME218StrengthofMaterials/PowerpointPresentations/2_2_axial_loading.pdf">http://www.csupomona.edu/~agrezaei/classes/ME218StrengthofMaterials/PowerpointPresentations/2_2_axial_loading.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Wei Q., 2006. MEGR 3152: Mechanics and Materials Labs, Lecture 02: Stress-strain Behaviors of Certain Materials. University of North Carolina at Charlotte. &lt;<link url="http://www.mees.uncc.edu/~qwei/Teaching.htm/MEGR 3152/LectureNotes/Leture 02.ppt">www.mees.uncc.edu/~qwei/Teaching.htm/MEGR 3152/LectureNotes/Leture 02.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Zhang C., 2006. Metal Forming. University of Saskatchewan. &lt;<link url="http://www.engr.usask.ca/classes/ME/330/win06-07/Handouts/handout-7-metal forming_Mar1.ppt">www.engr.usask.ca/classes/ME/330/win06-07/Handouts/</link><link url="http://www.engr.usask.ca/classes/ME/330/win06-07/Handouts/handout-7-metal forming_Mar1.ppt">handout-7-metal</link><link url="http://www.engr.usask.ca/classes/ME/330/win06-07/Handouts/handout-7-metal forming_Mar1.ppt"> </link><link url="http://www.engr.usask.ca/classes/ME/330/win06-07/Handouts/handout-7-metal forming_Mar1.ppt">forming_Mar1</link><link url="http://www.engr.usask.ca/classes/ME/330/win06-07/Handouts/handout-7-metal forming_Mar1.ppt">.</link><link url="http://www.engr.usask.ca/classes/ME/330/win06-07/Handouts/handout-7-metal forming_Mar1.ppt">ppt</link>&gt;.</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry>15</entry>
+            <entry>Introduction to Stress/Bending</entry>
+            <entry>
+              <link resource="15-Slides - Stress and Bending.pdf">15-Slides - Stress and Bending.pdf</link>
+            </entry>
+            <entry/>
+            <entrytbl cols="1">
+              <colspec colnum="1" colname="c1"/>
+              <tbody>
+                <row>
+                  <entry>Brown E., 2004. Single Joint System. Michigan State University. <link url="https://www.msu.edu/course/kin/831/Lecture 1 Bone Kinematics.ppt">https://www.msu.edu/course/kin/831/</link><link url="https://www.msu.edu/course/kin/831/Lecture 1 Bone Kinematics.ppt">Lecture</link><link url="https://www.msu.edu/course/kin/831/Lecture 1 Bone Kinematics.ppt"> 1 </link><link url="https://www.msu.edu/course/kin/831/Lecture 1 Bone Kinematics.ppt">Bone</link><link url="https://www.msu.edu/course/kin/831/Lecture 1 Bone Kinematics.ppt"> </link><link url="https://www.msu.edu/course/kin/831/Lecture 1 Bone Kinematics.ppt">Kinematics</link><link url="https://www.msu.edu/course/kin/831/Lecture 1 Bone Kinematics.ppt">.</link><link url="https://www.msu.edu/course/kin/831/Lecture 1 Bone Kinematics.ppt">ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Hornsey R., 2002. ENG2000 Chapter 7: Beams. York University. &lt;<link url="http://www.cse.yorku.ca/course_archive/2002-03/F/ENG2000/ENG2000_7_beam_v1.ppt">http://www.cse.yorku.ca/course_archive/2002-03/F/ENG2000/ENG2000_7_beam_v1.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Noffal G., 2006. Chapter 3 – Joint and Materials Mechanics. California State University, Fullerton. &lt;faculty.fullerton.edu/gnoffal/Courses/463 Course/Chapter 3 - biomechanics 2.ppt&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Rabiei A., 2007. Vector Mechanics for Engineers: Statics, Forces in Beams and Cables. North Carolina State University. &lt;<link url="http://www.mae.ncsu.edu/courses/mae206/rabiei/ch07.ppt">http://www.mae.ncsu.edu/courses/mae206/rabiei/ch07.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Wang W-C., 2008. Chapter 6: Bending. National Tsing Hua University. &lt;<link url="http://140.114.56.125/data/material of mechanics/english/Teaching Slides/ch06.ppt">http://140.114.56.125/data/material of mechanics/english/Teaching Slides/ch06.ppt</link>&gt;.</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry>16</entry>
+            <entry>Advanced Stress/Bending:Neutral Axis, Parallel Axis Theorem</entry>
+            <entry>
+              <link resource="16-Slides - Advanced Stress.pdf">16-Slides - Advanced Stress.pdf</link>
+            </entry>
+            <entry>
+              <link resource="16-Reading - Rapoff.pdf">16-Reading - Rapoff.pdf</link>
+            </entry>
+            <entrytbl cols="1">
+              <colspec colnum="1" colname="c1"/>
+              <tbody>
+                <row>
+                  <entry>2009. Bending of Beams. The University of Auckland. &lt;<link url="http://rommet.com/remco/MoM/MOMSection2.2.ppt">http://rommet.com/remco/MoM/MOMSection2.2.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Hornsey R., 2002. ENG2000 Chapter 7: Beams. York University. &lt;<link url="http://www.cse.yorku.ca/course_archive/2002-03/F/ENG2000/ENG2000_7_beam_v1.ppt">http://www.cse.yorku.ca/course_archive/2002-03/F/ENG2000/ENG2000_7_beam_v1.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Justice B., 2005. Biomechanics of Fracture and Fixation. San Francisco Orthopaedic Residency Program. &lt;<link url="http://www.sforp.org/Lecture Archives/Trauma/Biomechanics of Fracture and Fixation Justice 10.3.2005.ppt">http://www.sforp.org/Lecture Archives/Trauma/Biomechanics of Fracture and Fixation Justice 10.3.2005.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Le T., 2005. Biomechanics of Fractures and Fixation. Orthopaedic Trauma Association. &lt;<link url="http://www.ota.org/res_slide/G08_Biomechanics.ppt">www.ota.org/res_slide/</link><link url="http://www.ota.org/res_slide/G08_Biomechanics.ppt">G08_Biomechanics</link><link url="http://www.ota.org/res_slide/G08_Biomechanics.ppt">.</link><link url="http://www.ota.org/res_slide/G08_Biomechanics.ppt">ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Rabiei A., 2007. Vector Mechanics for Engineers: Statics, Distributed Forces: Moments of Inertia. North Carolina State University. &lt;<link url="http://www.mae.ncsu.edu/courses/mae206/rabiei/ch09.ppt">http://www.mae.ncsu.edu/courses/mae206/rabiei/ch09.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Rapoff A., 2007. Advanced Mechanics of Materials. Union College. &lt;<link url="http://engineering.union.edu/~rapoffa/MER440/Module 1/Cook &amp; Young Chapter 1.pdf">http://engineering.union.edu/~rapoffa/MER440/Module 1/Cook &amp; Young Chapter 1.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Wang W-C., 2008. Chapter 6: Bending. National Tsing Hua University. &lt;<link url="http://140.114.56.125/data/material of mechanics/english/Teaching Slides/ch06.ppt">http://140.114.56.125/data/material of mechanics/english/Teaching Slides/ch06.ppt</link>&gt;.</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry>17</entry>
+            <entry>Structure of Bone</entry>
+            <entry>
+              <link resource="17-Slides - Bone.pdf">17-Slides - Bone.pdf</link>
+            </entry>
+            <entry>
+              <link resource="17-Reading - Yun.pdf">17-Reading - Yun.pdf</link>
+            </entry>
+            <entrytbl cols="1">
+              <colspec colnum="1" colname="c1"/>
+              <tbody>
+                <row>
+                  <entry>Ames, S. Applied Anatomy and Physiology: A Case Study Approach, Chapter 5. Windsor High School. &lt;<link url="http://www.windsorhs.com/staff/admin/uploads/Ames11/AP_CH05.ppt">www.windsorhs.com/staff/admin/uploads/Ames11/</link><link url="http://www.windsorhs.com/staff/admin/uploads/Ames11/AP_CH05.ppt">AP_CH05</link><link url="http://www.windsorhs.com/staff/admin/uploads/Ames11/AP_CH05.ppt">.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Brown E., 2004. Single Joint System. Michigan State University. <link url="https://www.msu.edu/course/kin/831/Lecture 1 Bone Kinematics.ppt">https://www.msu.edu/course/kin/831/</link><link url="https://www.msu.edu/course/kin/831/Lecture 1 Bone Kinematics.ppt">Lecture</link><link url="https://www.msu.edu/course/kin/831/Lecture 1 Bone Kinematics.ppt"> 1 </link><link url="https://www.msu.edu/course/kin/831/Lecture 1 Bone Kinematics.ppt">Bone</link><link url="https://www.msu.edu/course/kin/831/Lecture 1 Bone Kinematics.ppt"> </link><link url="https://www.msu.edu/course/kin/831/Lecture 1 Bone Kinematics.ppt">Kinematics</link><link url="https://www.msu.edu/course/kin/831/Lecture 1 Bone Kinematics.ppt">.</link><link url="https://www.msu.edu/course/kin/831/Lecture 1 Bone Kinematics.ppt">ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Garner B., 2004. Bone. Baylor University. </entry>
+                </row>
+                <row>
+                  <entry>Cornwall M., 1984. Biomechanics of Noncontractile Tissue. Physical Therapy 64(12): 1869-1873. &lt;<link url="http://www.ptjournal.org/cgi/reprint/64/12/1869.pdf">http://www.ptjournal.org/cgi/reprint/64/12/1869.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Gillet P., 2008. Mechanics of Bones. Montefiore Institute. &lt;<link url="http://www.montefiore.ulg.ac.be/systems/GBIO/gbio001/chap_2.3.pdf">www.montefiore.ulg.ac.be/systems/GBIO/gbio001/</link><link url="http://www.montefiore.ulg.ac.be/systems/GBIO/gbio001/chap_2.3.pdf">chap_2.3.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Hammoudi D., 2007. Bone and Joints: Introduction. Sinoe Medical Association. &lt;<link url="http://sinoemedicalassociation.org/AP/lectureBone.pdf">http://sinoemedicalassociation.org/AP/lectureBone.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Nather N., Ong H., and Aziz Z., 2009. Structure of Bone. World Scientific. &lt;<link url="http://www.worldscibooks.com/medsci/etextbook/5695/5695_chap01.pdf">http://www.worldscibooks.com/medsci/etextbook/5695/5695_chap01.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Rapoff A., 2007. Function &amp; Structure of Bone. Union College. &lt;<link url="http://engineering.union.edu/~rapoffa/MER440/Module 4/Function &amp; Structure of Bone.pdf">http://engineering.union.edu/~rapoffa/MER440/Module 4/Function &amp; Structure of Bone.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Seeley M., 2008. Bone Biomechanics. Brigham Young University. &lt;<link url="http://neon.byu.edu/%7Eseeleym/exsc362%28seeley%29/chapter09_files/bone_biomech.pdf">http://neon.byu.edu/~seeleym/exsc362(seeley)/chapter09_files/bone_biomech.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Yun M., 2002. Bone Structure. Pohang University of Science and Technology. &lt;<link url="http://www.postech.ac.kr/class/ie643/hmboard/file/Bone Structure.doc">www.postech.ac.kr/class/ie643/hmboard/file/</link><link url="http://www.postech.ac.kr/class/ie643/hmboard/file/Bone Structure.doc">Bone</link><link url="http://www.postech.ac.kr/class/ie643/hmboard/file/Bone Structure.doc"> </link><link url="http://www.postech.ac.kr/class/ie643/hmboard/file/Bone Structure.doc">Structure</link><link url="http://www.postech.ac.kr/class/ie643/hmboard/file/Bone Structure.doc">.doc</link>&gt;.</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry>18</entry>
+            <entry>Mechanical Properties of Bone</entry>
+            <entry>
+              <link resource="18-Slides - Bone.pdf">18-Slides - Bone.pdf</link>
+            </entry>
+            <entry>
+              <link resource="18-Reading - Christopher.pdf">18-Reading - Christopher.pdf</link>
+            </entry>
+            <entrytbl cols="1">
+              <colspec colnum="1" colname="c1"/>
+              <tbody>
+                <row>
+                  <entry>Brown E., 2004. Single Joint System. Michigan State University. <link url="https://www.msu.edu/course/kin/831/Lecture 1 Bone Kinematics.ppt">https://www.msu.edu/course/kin/831/</link><link url="https://www.msu.edu/course/kin/831/Lecture 1 Bone Kinematics.ppt">Lecture</link><link url="https://www.msu.edu/course/kin/831/Lecture 1 Bone Kinematics.ppt"> 1 </link><link url="https://www.msu.edu/course/kin/831/Lecture 1 Bone Kinematics.ppt">Bone</link><link url="https://www.msu.edu/course/kin/831/Lecture 1 Bone Kinematics.ppt"> </link><link url="https://www.msu.edu/course/kin/831/Lecture 1 Bone Kinematics.ppt">Kinematics</link><link url="https://www.msu.edu/course/kin/831/Lecture 1 Bone Kinematics.ppt">.</link><link url="https://www.msu.edu/course/kin/831/Lecture 1 Bone Kinematics.ppt">ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Christopher G., 2007. Skeletal Considerations for Movement. Texas Women’s University. &lt;<link url="http://www.twu.edu/biom/2593Lect/Skeletal Considerations for Movement.pdf">http://www.twu.edu/biom/2593Lect/Skeletal Considerations for Movement.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Gillet P., 2008. Mechanics of Bones. Montefiore Institute. &lt;<link url="http://www.montefiore.ulg.ac.be/systems/GBIO/gbio001/chap_2.3.pdf">www.montefiore.ulg.ac.be/systems/GBIO/gbio001/</link><link url="http://www.montefiore.ulg.ac.be/systems/GBIO/gbio001/chap_2.3.pdf">chap_2.3.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Imholtz A., 2005. Skeletal System. Prince George’s Community College. &lt;<link url="http://academic.pgcc.edu/%7Eaimholtz/AandP/LectureNotes/ANP1_Lec/Skeletal/BoneTissue.ppt">http://academic.pgcc.edu/~aimholtz/AandP/LectureNotes/ANP1_Lec/Skeletal/BoneTissue.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Le T., 2005. Biomechanics of Fractures and Fixation. Orthopaedic Trauma Association. &lt;<link url="http://www.ota.org/res_slide/G08_Biomechanics.ppt">www.ota.org/res_slide/</link><link url="http://www.ota.org/res_slide/G08_Biomechanics.ppt">G08_Biomechanics</link><link url="http://www.ota.org/res_slide/G08_Biomechanics.ppt">.</link><link url="http://www.ota.org/res_slide/G08_Biomechanics.ppt">ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Rapoff A., 2007. Representative Properties of Bone. Union College. &lt;<link url="http://engineering.union.edu/~rapoffa/MER440/Module 5/Representative Properties of Bone.pdf">http://engineering.union.edu/~rapoffa/MER440/Module 5/Representative Properties of Bone.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Vanwanseele B., 2004. Tissue Biomechanics: Bone. University of Sydney. &lt;<link url="http://www2.fhs.usyd.edu.au/ESS/sinclair/Projects/2004projL4aweb.pdf">http://www2.fhs.usyd.edu.au/ESS/sinclair/Projects/2004projL4aweb.pdf</link>&gt;.</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry>19</entry>
+            <entry>Fracture Mechanics and Breaks</entry>
+            <entry>
+              <link resource="19-Slides - Breaks.pdf">19-Slides - Breaks.pdf</link>
+            </entry>
+            <entry>
+              <link resource="19-Reading - Alms.pdf">19-Reading - Alms.pdf</link>
+            </entry>
+            <entrytbl cols="1">
+              <colspec colnum="1" colname="c1"/>
+              <tbody>
+                <row>
+                  <entry>2008. Chapter 32 of Spring 2008 EMT-B Class.. Spotsylvania Volunteer Rescue Squad. &lt;<link url="http://www.spotsyrescue.org/content/classes/File/File/CH32_IB.ppt">www.spotsyrescue.org/content/classes/File/File/</link><link url="http://www.spotsyrescue.org/content/classes/File/File/CH32_IB.ppt">CH32_IB</link><link url="http://www.spotsyrescue.org/content/classes/File/File/CH32_IB.ppt">.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Alms M., 1961. Fracture Mechanics. Journal of Bone and Joint Surgery 43-B (1): 162. &lt;<link url="http://www.jbjs.org.uk/cgi/reprint/43-B/1/162">http://www.jbjs.org.uk/cgi/reprint/43-B/1/162</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Al-Tayyar S., 2007. Introduction to Orthopedic Biomechanics. King Saud University. &lt;<link url="http://faculty.ksu.edu.sa/4278/Documents/Conferences and Symposiums Presentations/Introduction to Orthopaedic Biomechanics.pdf">http://faculty.ksu.edu.sa/4278/Documents/Conferences and Symposiums Presentations/Introduction to Orthopaedic Biomechanics.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Brown E., 2004. Single Joint System. Michigan State University. <link url="https://www.msu.edu/course/kin/831/Lecture 1 Bone Kinematics.ppt">https://www.msu.edu/course/kin/831/</link><link url="https://www.msu.edu/course/kin/831/Lecture 1 Bone Kinematics.ppt">Lecture</link><link url="https://www.msu.edu/course/kin/831/Lecture 1 Bone Kinematics.ppt"> 1 </link><link url="https://www.msu.edu/course/kin/831/Lecture 1 Bone Kinematics.ppt">Bone</link><link url="https://www.msu.edu/course/kin/831/Lecture 1 Bone Kinematics.ppt"> </link><link url="https://www.msu.edu/course/kin/831/Lecture 1 Bone Kinematics.ppt">Kinematics</link><link url="https://www.msu.edu/course/kin/831/Lecture 1 Bone Kinematics.ppt">.</link><link url="https://www.msu.edu/course/kin/831/Lecture 1 Bone Kinematics.ppt">ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Garner B., 2004. Bone. Baylor University.</entry>
+                </row>
+                <row>
+                  <entry>Imholtz A., 2005. Skeletal System. Prince George’s Community College. &lt;<link url="http://academic.pgcc.edu/%7Eaimholtz/AandP/LectureNotes/ANP1_Lec/Skeletal/BoneTissue.ppt">http://academic.pgcc.edu/~aimholtz/AandP/LectureNotes/ANP1_Lec/Skeletal/BoneTissue.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Justice B., 2005. Biomechanics of Fracture and Fixation. San Francisco Orthopaedic Residency Program. &lt;<link url="http://www.sforp.org/Lecture Archives/Trauma/Biomechanics of Fracture and Fixation Justice 10.3.2005.ppt">http://www.sforp.org/Lecture Archives/Trauma/Biomechanics of Fracture and Fixation Justice 10.3.2005.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Ritchie R., Kinney J., Kruzic J., and Nalla R., 2006. Cortical Bone Fracture. Wiley Encyclopedia of Biomedical Engineering. &lt;<link url="http://www.lbl.gov/ritchie/Library/PDF/Wiley BioEng Encyc.pdf">http://www.lbl.gov/ritchie/Library/PDF/Wiley BioEng Encyc.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Seeley M., 2008. Bone Biomechanics. Brigham Young University. &lt;<link url="http://neon.byu.edu/%7Eseeleym/exsc362%28seeley%29/chapter09_files/bone_biomech.pdf">http://neon.byu.edu/~seeleym/exsc362(seeley)/chapter09_files/bone_biomech.pdf</link>&gt;.</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry>20</entry>
+            <entry>Fracture Mechanics and Healing</entry>
+            <entry>
+              <link resource="20-Slides - Healing.pdf">20-Slides - Healing.pdf</link>
+            </entry>
+            <entry><link resource="20-Reading - Kalfas.pdf">20-Reading - Kalfas.pdf</link>; <link resource="20-Reading - Calgary.pdf">20-Reading - Calgary.pdf</link></entry>
+            <entrytbl cols="1">
+              <colspec colnum="1" colname="c1"/>
+              <tbody>
+                <row>
+                  <entry>Ames, S. Applied Anatomy and Physiology: A Case Study Approach, Chapter 5. Windsor High School. &lt;<link url="http://www.windsorhs.com/staff/admin/uploads/Ames11/AP_CH05.ppt">www.windsorhs.com/staff/admin/uploads/Ames11/</link><link url="http://www.windsorhs.com/staff/admin/uploads/Ames11/AP_CH05.ppt">AP_CH05</link><link url="http://www.windsorhs.com/staff/admin/uploads/Ames11/AP_CH05.ppt">.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Brown E., 2004. Single Joint System. Michigan State University. <link url="https://www.msu.edu/course/kin/831/Lecture 1 Bone Kinematics.ppt">https://www.msu.edu/course/kin/831/</link><link url="https://www.msu.edu/course/kin/831/Lecture 1 Bone Kinematics.ppt">Lecture</link><link url="https://www.msu.edu/course/kin/831/Lecture 1 Bone Kinematics.ppt"> 1 </link><link url="https://www.msu.edu/course/kin/831/Lecture 1 Bone Kinematics.ppt">Bone</link><link url="https://www.msu.edu/course/kin/831/Lecture 1 Bone Kinematics.ppt"> </link><link url="https://www.msu.edu/course/kin/831/Lecture 1 Bone Kinematics.ppt">Kinematics</link><link url="https://www.msu.edu/course/kin/831/Lecture 1 Bone Kinematics.ppt">.</link><link url="https://www.msu.edu/course/kin/831/Lecture 1 Bone Kinematics.ppt">ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Justice B., 2005. Biomechanics of Fracture and Fixation. San Francisco Orthopaedic Residency Program. &lt;<link url="http://www.sforp.org/Lecture Archives/Trauma/Biomechanics of Fracture and Fixation Justice 10.3.2005.ppt">http://www.sforp.org/Lecture Archives/Trauma/Biomechanics of Fracture and Fixation Justice 10.3.2005.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Kalfas I., 2001. Principles of Bone Healing. Neurosurgical Focus 10(4): 1-4. &lt;<link url="http://thejns.org/doi/pdf/10.3171/foc.2001.10.4.2?cookieSet=1">http://thejns.org/doi/pdf/10.3171/foc.2001.10.4.2?cookieSet=1</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Le T., 2005. Biomechanics of Fractures and Fixation. Orthopaedic Trauma Association. &lt;<link url="http://www.ota.org/res_slide/G08_Biomechanics.ppt">www.ota.org/res_slide/</link><link url="http://www.ota.org/res_slide/G08_Biomechanics.ppt">G08_Biomechanics</link><link url="http://www.ota.org/res_slide/G08_Biomechanics.ppt">.</link><link url="http://www.ota.org/res_slide/G08_Biomechanics.ppt">ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Orthopedic Trauma Program, 2008. Stages of Bone Healing. Alberta Health Services. &lt;<link url="http://www.calgaryhealthregion.ca/programs/orthopaedictrauma/pdf/pt_education/stages_of_bone_healing.pdf">http://www.calgaryhealthregion.ca/programs/orthopaedictrauma/pdf/pt_education/stages_of_bone_healing.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Vanwanseele B., 2004. Tissue Biomechanics: Bone. University of Sydney. &lt;<link url="http://www2.fhs.usyd.edu.au/ESS/sinclair/Projects/2004projL4aweb.pdf">http://www2.fhs.usyd.edu.au/ESS/sinclair/Projects/2004projL4aweb.pdf</link>&gt;.</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry>21</entry>
+            <entry>Tendons/Ligaments:Structure and Properties</entry>
+            <entry>
+              <link resource="21-Slides - tendon_ligament.pdf">21-Slides - tendon_ligament.pdf</link>
+            </entry>
+            <entry>
+              <link resource="21-Reading - Hollister.pdf">21-Reading - Hollister.pdf</link>
+            </entry>
+            <entrytbl cols="1">
+              <colspec colnum="1" colname="c1"/>
+              <tbody>
+                <row>
+                  <entry>Garner B., 2003. Ligament. Baylor University</entry>
+                </row>
+                <row>
+                  <entry>Garner B., 2003. Tendon. Baylor University</entry>
+                </row>
+                <row>
+                  <entry>Hollister S., 2008. Structure and Function of Ligaments and Tendons. University of Michigan. &lt;<link url="http://www.engin.umich.edu/class/bme456/ligten/ligten.htm">http://www.engin.umich.edu/class/bme456/ligten/ligten.htm</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Iatridis J., 2007. Tendon and Ligament Structure and Composition. University of Vermont. &lt;<link url="http://www.emba.uvm.edu/~iatridis/me207/tendon_ligament_structure.pdf">http://www.emba.uvm.edu/~iatridis/me207/tendon_ligament_structure.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Materials and Textiles, 2007. Hip and knee joint replacements. University of Massachusetts with Dartmouth University. &lt;<link url="http://www.tesumassd.org/courses/mtx105calvert/readings/hipknee.pdf">http://www.tesumassd.org/courses/mtx105calvert/readings/hipknee.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Rapoff A., 2008. Mechanical Properties of Ligament and Tendon. Union College. &lt;<link url="http://engineering.union.edu/~rapoffa/MER445/Module 4 Ligament &amp; Tendon/Martin Ch 8 Ligament &amp; Tendon.pdf">http://engineering.union.edu/~rapoffa/MER445/Module 4 Ligament &amp; Tendon/Martin Ch 8 Ligament &amp; Tendon.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Rapoff A., 2008. Ligament and Tendon: Introduction. Union College. &lt;<link url="http://engineering.union.edu/~rapoffa/MER445/Module 4 Ligament &amp; Tendon/Introduction Notes.pdf">http://engineering.union.edu/~rapoffa/MER445/Module 4 Ligament &amp; Tendon/Introduction Notes.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Vanderby R., 2007. Ligament Mechanics. University of Wisconsin. &lt;<link url="http://ecow.engr.wisc.edu/cgi-bin/get/bme/615/1vanderby/notes/ligament1.ppt">http://ecow.engr.wisc.edu/cgi-bin/get/bme/615/1vanderby/notes/ligament1.ppt</link>&gt;.</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry>22</entry>
+            <entry>Tendons/Ligaments:Mechanical and Viscoelastic Properties</entry>
+            <entry>
+              <link resource="22-Slides - tendon_ligament.pdf">22-Slides - tendon_ligament.pdf</link>
+            </entry>
+            <entry>
+              <link resource="22-Reading - Rapoff.pdf">22-Reading - Rapoff.pdf</link>
+            </entry>
+            <entrytbl cols="1">
+              <colspec colnum="1" colname="c1"/>
+              <tbody>
+                <row>
+                  <entry>Al-Tayyar S., 2007. Introduction to Orthopedic Biomechanics. King Saud University. &lt;<link url="http://faculty.ksu.edu.sa/4278/Documents/Conferences and Symposiums Presentations/Introduction to Orthopaedic Biomechanics.pdf">http://faculty.ksu.edu.sa/4278/Documents/Conferences and Symposiums Presentations/Introduction to Orthopaedic Biomechanics.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Garner B., 2003. Ligament. Baylor University.</entry>
+                </row>
+                <row>
+                  <entry>Justice B., 2005. Biomechanics of Fracture and Fixation. San Francisco Orthopaedic Residency Program. &lt;<link url="http://www.sforp.org/Lecture Archives/Trauma/Biomechanics of Fracture and Fixation Justice 10.3.2005.ppt">http://www.sforp.org/Lecture Archives/Trauma/Biomechanics of Fracture and Fixation Justice 10.3.2005.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Rapoff A., 2008. Viscoelasticity. Union College. &lt;<link url="http://engineering.union.edu/~rapoffa/MER445/Module 3 Viscoelasticity/Introduction.pdf">http://engineering.union.edu/~rapoffa/MER445/Module 3 Viscoelasticity/Introduction.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Vanderby R., 2007. Ligament Mechanics. University of Wisconsin. &lt;<link url="http://ecow.engr.wisc.edu/cgi-bin/get/bme/615/1vanderby/notes/ligament1.ppt">http://ecow.engr.wisc.edu/cgi-bin/get/bme/615/1vanderby/notes/ligament1.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Weiss J. and Gardiner J., 2001. Computational Modeling of Ligament Mechanics. Critical Reviews in Biomedical Engineering 29(4):1-70. &lt;<link url="http://mrl.sci.utah.edu/papers/critrev.pdf">http://mrl.sci.utah.edu/papers/critrev.pdf</link>&gt;.</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry>23</entry>
+            <entry>Articular Cartilage:Structure and Function</entry>
+            <entry>
+              <link resource="23-Slides - Articular Cartilage.pdf">23-Slides - Articular Cartilage.pdf</link>
+            </entry>
+            <entry>
+              <link resource="23-Reading - Mansour.pdf">23-Reading - Mansour.pdf</link>
+            </entry>
+            <entrytbl cols="1">
+              <colspec colnum="1" colname="c1"/>
+              <tbody>
+                <row>
+                  <entry>Grimm M. and Atkinson T., 2002. Structure and Function Articular Cartilage. Wayne State University. &lt;<link url="http://ttb.eng.wayne.edu/~grimm/BME5210/Lecture7.pdf">http://ttb.eng.wayne.edu/~grimm/BME5210/Lecture7.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Iatridis J., 2005. Structure and Composition of Articular Cartilage. University of Vermont. &lt;<link url="http://www.emba.uvm.edu/%7Eiatridis/me301/cartilage_intro.pdf">http://www.emba.uvm.edu/~iatridis/me301/cartilage_intro.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>James C-B. and Uhl T., 2001. A Review of Articular Cartilage Pathology and the Use of Glucosamine Sulfate. Journal of Athletic Training 36(4): 413-419. &lt;<link url="http://www.nata.org/jat/readers/archives/36.4/i1062-6050-036-04-0413.pdf">http://www.nata.org/jat/readers/archives/36.4/i1062-6050-036-04-0413.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Mansour J., 2000. Biomechanics of Cartilage. Cartilage Health. &lt;<link url="http://www.cartilagehealth.com/images/artcartbiomech.pdf">http://www.cartilagehealth.com/images/artcartbiomech.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Rapoff A., 2008. Function &amp; Structure of Articular Cartilage. Union College. &lt;<link url="http://engineering.union.edu/~rapoffa/MER445/Module 6 Articular Cartilage/Function &amp; Structure of Articular Cartilage.pdf">http://engineering.union.edu/~rapoffa/MER445/Module 6 Articular Cartilage/Function &amp; Structure of Articular Cartilage.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Ziv I., 2009. Articular Cartilage. University at Buffalo. &lt;<link url="http://wings.buffalo.edu/academic/department/eng/mae/courses/417-517/Orthopaedic Biomechanics/Lecture 8a.pdf">http://wings.buffalo.edu/academic/department/eng/mae/courses/417-517/Orthopaedic Biomechanics/Lecture 8a.pdf</link>&gt;.</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry>24</entry>
+            <entry>Articular Cartilage:Mechanical Properties</entry>
+            <entry>
+              <link resource="24-Slides - Articular Cartilage.pdf">24-Slides - Articular Cartilage.pdf</link>
+            </entry>
+            <entry>
+              <link resource="24-Reading - Rapoff.pdf">24-Reading - Rapoff.pdf</link>
+            </entry>
+            <entrytbl cols="1">
+              <colspec colnum="1" colname="c1"/>
+              <tbody>
+                <row>
+                  <entry>Grimm M. and Atkinson T., 2002. Structure and Function Articular Cartilage. Wayne State University. &lt;<link url="http://ttb.eng.wayne.edu/~grimm/BME5210/Lecture7.pdf">http://ttb.eng.wayne.edu/~grimm/BME5210/Lecture7.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Iatridis J., 2005. Structure and Composition of Articular Cartilage. University of Vermont. &lt;<link url="http://www.emba.uvm.edu/%7Eiatridis/me301/cartilage_intro.pdf">http://www.emba.uvm.edu/~iatridis/me301/cartilage_intro.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Rapoff A., 2008. Mechanical Properties of Articular Cartilage. Union College. &lt;<link url="http://engineering.union.edu/~rapoffa/MER445/Module 6 Articular Cartilage/Mechanical Properties of Articular Cartilage.pdf">http://engineering.union.edu/~rapoffa/MER445/Module 6 Articular Cartilage/Mechanical Properties of Articular Cartilage.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Ziv I., 2009. Articular Cartilage. University at Buffalo. &lt;<link url="http://wings.buffalo.edu/academic/department/eng/mae/courses/417-517/Orthopaedic Biomechanics/Lecture 8a.pdf">http://wings.buffalo.edu/academic/department/eng/mae/courses/417-517/Orthopaedic Biomechanics/Lecture 8a.pdf</link>&gt;.</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry>25</entry>
+            <entry>Introduction to Joints:Structure and Function</entry>
+            <entry>
+              <link resource="25-Slides - Joints.pdf">25-Slides - Joints.pdf</link>
+            </entry>
+            <entry>
+              <link resource="25-Reading - Rapoff.pdf">25-Reading - Rapoff.pdf</link>
+            </entry>
+            <entrytbl cols="1">
+              <colspec colnum="1" colname="c1"/>
+              <tbody>
+                <row>
+                  <entry>Ames, S. Applied Anatomy and Physiology: A Case Study Approach, Chapter 5. Windsor High School. &lt;<link url="http://www.windsorhs.com/staff/admin/uploads/Ames11/AP_CH05.ppt">www.windsorhs.com/staff/admin/uploads/Ames11/</link><link url="http://www.windsorhs.com/staff/admin/uploads/Ames11/AP_CH05.ppt">AP_CH05</link><link url="http://www.windsorhs.com/staff/admin/uploads/Ames11/AP_CH05.ppt">.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Arora N., 2008. Basic Anatomy and Basic Physiology. Naturopathic Living. &lt;<link url="http://www.naturopathicliving.com/media/pmti/babp_f08/Week6_SkeletalSysCont_Slides.pdf">http://www.naturopathicliving.com/media/pmti/babp_f08/Week6_SkeletalSysCont_Slides.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Essex H., 2006. The Skeleton. Dartford Technology College through TeachNet UK. &lt;<link url="http://www.teachnet-uk.org.uk/2006 Projects/PE-Bones_Muscles/the-skeleton.ppt">http://www.teachnet-uk.org.uk/2006 Projects/PE-Bones_Muscles/the-skeleton.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Hoxha J., 2007. Chapter 8: Articulations and Movement. Chandler-Gilbert Community College. &lt;<link url="http://eport2.cgc.maricopa.edu/published/h/ox/hoxha/collection/3/6/upload.c-hoxha-3n6.pdf">http://eport2.cgc.maricopa.edu/published/h/ox/hoxha/collection/3/6/upload.c-hoxha-3n6.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Mathis S., 2008. Joints (Articulations). Collin County Community College District. &lt;<link url="http://iws.ccccd.edu/smathis/A&amp;PI Lecture/chap 8a.ppt">http://iws.ccccd.edu/smathis/A&amp;PI Lecture/chap 8a.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Rapoff A., 2007. Skeletal Tissue Mechanics. Union College. &lt;<link url="http://engineering.union.edu/~rapoffa/MER440/Module 3/Martin Chapter 1.pdf">http://engineering.union.edu/~rapoffa/MER440/Module 3/Martin Chapter 1.pdf</link>&gt;.</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry>26</entry>
+            <entry>Introduction to Joints:Types and Movement</entry>
+            <entry>
+              <link resource="26-Slides - Joints-1.pdf">26-Slides - Joints-1.pdf</link>
+            </entry>
+            <entry/>
+            <entrytbl cols="1">
+              <colspec colnum="1" colname="c1"/>
+              <tbody>
+                <row>
+                  <entry>Essex H., 2006. The Skeleton. Dartford Technology College through TeachNet UK. &lt;<link url="http://www.teachnet-uk.org.uk/2006 Projects/PE-Bones_Muscles/the-skeleton.ppt">http://www.teachnet-uk.org.uk/2006 Projects/PE-Bones_Muscles/the-skeleton.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Hoxha J., 2007. Chapter 8: Articulations and Movement. Chandler-Gilbert Community College. &lt;<link url="http://eport2.cgc.maricopa.edu/published/h/ox/hoxha/collection/3/6/upload.c-hoxha-3n6.pdf">http://eport2.cgc.maricopa.edu/published/h/ox/hoxha/collection/3/6/upload.c-hoxha-3n6.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>IPRO 309 (Orthotics and Prosthetics Education in Latin America), 2006. Range-of-Motion. Illinois Institute of Technology. &lt;<link url="http://www.iit.edu/%7Eipro309f06/MMTandROM/ROM_Presentation.ppt">http://www.iit.edu/~ipro309f06/MMTandROM/ROM_Presentation.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Mathis S., 2008. Joints (Articulations). Collin County Community College District. &lt;<link url="http://iws.ccccd.edu/smathis/A&amp;PI Lecture/chap 8a.ppt">http://iws.ccccd.edu/smathis/A&amp;PI Lecture/chap 8a.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Rapoff A., 2008. Joint Friction, Wear, and Lubrication. Union College. &lt;<link url="http://engineering.union.edu/~rapoffa/MER445/Module 6 Articular Cartilage/Panjabi &amp; White Ch 8 Joints.pdf">http://engineering.union.edu/~rapoffa/MER445/Module 6 Articular Cartilage/Panjabi &amp; White Ch 8 Joints.pdf</link>&gt;.</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry>27</entry>
+            <entry>Implants:Devices and Materials</entry>
+            <entry>
+              <link resource="27-Slides - Implants.pdf">27-Slides - Implants.pdf</link>
+            </entry>
+            <entry>
+              <link resource="27-Reading - Goyal.pdf">27-Reading - Goyal.pdf</link>
+            </entry>
+            <entrytbl cols="1">
+              <colspec colnum="1" colname="c1"/>
+              <tbody>
+                <row>
+                  <entry>Alvarado J., Maldonado R., Marxuach J. and Otero R., 2003. Biomechanics of Hip and Knee Prostheses. Applications of Engineering Mechanics in Medicine, GED – University of Puerto Rico Mayaguez. &lt;<link url="http://academic.uprm.edu/%7Emgoyal/materialsdec2003/m03hipkneeprostheses.pdf">http://academic.uprm.edu/~mgoyal/materialsdec2003/m03hipkneeprostheses.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Bajekal R., 2008. Biomechanics of the Hip. Barts and the London Basic Science. &lt;<link url="http://www.bartsandthelondon.org.uk/docs/bajekal_hip_biomechanics.pdf">www.bartsandthelondon.org.uk/docs/</link><link url="http://www.bartsandthelondon.org.uk/docs/bajekal_hip_biomechanics.pdf">bajekal_hip_biomechanics</link><link url="http://www.bartsandthelondon.org.uk/docs/bajekal_hip_biomechanics.pdf">.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Gough J., 2008. Biomechanics of the Hip and Related Science of Hip Arthroplasty. The University of Liverpool. &lt;<link url="http://musculoskeletalscience.co.uk/Documents/BIOMECHANICS OF THE HIP LECTURE 9TH JULY.ppt">http://musculoskeletalscience.co.uk/Documents/BIOMECHANICS OF THE HIP LECTURE 9TH JULY.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Kelman D., 2006. Hip Product Review. Smith &amp; Nephew. &lt;<link url="http://global.smith-nephew.com/cps/rde/xbcr/smithnephewls_master/Hip_product_review.pdf">http://global.smith-nephew.com/cps/rde/xbcr/smithnephewls_master/Hip_product_review.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Materials and Textiles, 2007. Hip and knee joint replacements. University of Massachusetts with Dartmouth University. &lt;<link url="http://www.tesumassd.org/courses/mtx105calvert/readings/hipknee.pdf">http://www.tesumassd.org/courses/mtx105calvert/readings/hipknee.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Ploeg H., 2008. BME 515: Prosthetic Joints. University of Wisconsin-Madison. &lt;<link url="http://ecow.engr.wisc.edu/cgi-bin/getbig/bme/515/tompkins/lecturesli/prostheticjoints2007.pdf">http://ecow.engr.wisc.edu/cgi-bin/getbig/bme/515/tompkins/lecturesli/prostheticjoints2007.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Pruitt L., 2007. Fractures and Failures. University of California Berkeley. &lt;<link url="http://www.me.berkeley.edu/ME117/S07/lectures/020807.ppt">http://www.me.berkeley.edu/ME117/S07/lectures/020807.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Rakotomanana L., 2001. The Long-Term Behaviour of Human Joints with Orthopedic Prostheses: Finite Element Models. University of Rennes. &lt;<link url="http://perso.univ-rennes1.fr/lalaonirina.rakotomanana-ravelonarivo/th_implant-lecture.pdf">http://perso.univ-rennes1.fr/lalaonirina.rakotomanana-ravelonarivo/th_implant-lecture.pdf</link>&gt;.</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry>28</entry>
+            <entry>Implants:Bone Plate Analysis and Design</entry>
+            <entry>
+              <link resource="28-Slides - Bone Plate.pdf">28-Slides - Bone Plate.pdf</link>
+            </entry>
+            <entry>
+              <link url="http://28-ReadingBonePlateBiomechanicsDesign-Kelley.pdf/">28-ReadingBonePlateBiomechanicsDesign-Kelley.pdf</link>
+            </entry>
+            <entrytbl cols="1">
+              <colspec colnum="1" colname="c1"/>
+              <tbody>
+                <row>
+                  <entry>Justice B., 2005. Biomechanics of Fracture and Fixation. San Francisco Orthopaedic Residency Program. &lt;<link url="http://www.sforp.org/Lecture Archives/Trauma/Biomechanics of Fracture and Fixation Justice 10.3.2005.ppt">http://www.sforp.org/Lecture Archives/Trauma/Biomechanics of Fracture and Fixation Justice 10.3.2005.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Le T., 2005. Biomechanics of Fractures and Fixation. Orthopaedic Trauma Association. &lt;<link url="http://www.ota.org/res_slide/G08_Biomechanics.ppt">www.ota.org/res_slide/</link><link url="http://www.ota.org/res_slide/G08_Biomechanics.ppt">G08_Biomechanics</link><link url="http://www.ota.org/res_slide/G08_Biomechanics.ppt">.</link><link url="http://www.ota.org/res_slide/G08_Biomechanics.ppt">ppt</link>&gt;.</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry>29</entry>
+            <entry>Knee Biomechanics:Structure and Function</entry>
+            <entry>
+              <link resource="29-Slides - Knee Biomechanics.pdf">29-Slides - Knee Biomechanics.pdf</link>
+            </entry>
+            <entry>
+              <link resource="29-Reading - Blue Medical.pdf">29-Reading - Blue Medical.pdf</link>
+            </entry>
+            <entrytbl cols="1">
+              <colspec colnum="1" colname="c1"/>
+              <tbody>
+                <row>
+                  <entry>Bertozzi L., 2008. Biomechanical Modelling of Human Knee During Living Activities. University of Bologna. &lt;<link url="http://amsdottorato.cib.unibo.it/671/1/Tesi_Bertozzi_Luigi.pdf">http://amsdottorato.cib.unibo.it/671/1/Tesi_Bertozzi_Luigi.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Blue Medical, 2007. Anatomy/Biomechanics. TheKneeDoc. &lt;<link url="http://www.thekneedoc.co.uk/content.asp?section=3&amp;parentID=3">http://www.thekneedoc.co.uk/content.asp?section=3&amp;parentID=3</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Garner B., 2003. Joint Anatomy. Baylor University.</entry>
+                </row>
+                <row>
+                  <entry>Iatridis J., 2008. Biomechanics of the Knee. University of Vermont. &lt;<link url="http://www.cem.uvm.edu/~iatridis/me207/knee_biomechanics.pdf">http://www.cem.uvm.edu/~iatridis/me207/knee_biomechanics.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Peeler J., 2008. Biomechanics of the Knee. University of Winnipeg. </entry>
+                </row>
+                <row>
+                  <entry>Scifers J., 2005. Knee Evaluation. Western Carolina University. &lt;<link url="http://paws.wcu.edu/jscifers/Knee Evaluation/Knee Evaluation %282005%29.ppt">http://paws.wcu.edu/jscifers/Knee Evaluation/Knee Evaluation (2005).ppt</link>&gt;.</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry>30</entry>
+            <entry>Knee Biomechanics:Movement and Forces</entry>
+            <entry>
+              <link resource="30-Slides - Knee Biomechanics.pdf">30-Slides - Knee Biomechanics.pdf</link>
+            </entry>
+            <entry/>
+            <entrytbl cols="1">
+              <colspec colnum="1" colname="c1"/>
+              <tbody>
+                <row>
+                  <entry>Crosby A., 2008. Knee Biomechanics. Memorial University. &lt;<link url="http://www.med.mun.ca/ortho/pages/Presentations/Knee Biomechanics.ppt">http://www.med.mun.ca/ortho/pages/Presentations/Knee Biomechanics.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Garner B., 2003. Joint Anatomy. Baylor University.</entry>
+                </row>
+                <row>
+                  <entry>Iatridis J., 2008. Biomechanics of the Knee. University of Vermont. &lt;<link url="http://www.cem.uvm.edu/~iatridis/me207/knee_biomechanics.pdf">http://www.cem.uvm.edu/~iatridis/me207/knee_biomechanics.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Lu T-W., 2004. Biomechanics of the Knee. National Taiwan University. &lt;<link url="http://ntucas.twbbs.org/TSB-web/ConferenceInfo/2004/骨科生物力學研討會/Biomechanics of The Knee%28呂東武%29.doc">http://ntucas.twbbs.org/TSB-web/ConferenceInfo/2004/%E9%AA%A8%E7%A7%91%E7%94%9F%E7%89%A9%E5%8A%9B%E5%AD%B8%E7%A0%94%E8%A8%8E%E6%9C%83/Biomechanics of The Knee(%E5%91%82%E6%9D%B1%E6%AD%A6).doc</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Materials and Textiles, 2007. Hip and knee joint replacements. University of Massachusetts with Dartmouth University. &lt;<link url="http://www.tesumassd.org/courses/mtx105calvert/readings/hipknee.pdf">http://www.tesumassd.org/courses/mtx105calvert/readings/hipknee.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>McLeod W. and Hunter S., 1980. Biomechanical Analysis of the Knee. Physical Therapy 60(12):1561-1564. &lt;<link url="http://www.ptjournal.org/cgi/reprint/60/12/1561.pdf">http://www.ptjournal.org/cgi/reprint/60/12/1561.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Peeler J., 2008. Biomechanics of the Knee. University of Winnipeg.</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry>33</entry>
+            <entry>Hip:Structural Components</entry>
+            <entry>
+              <link resource="33-Slides - Hip Biomechanics.pdf">33-Slides - Hip Biomechanics.pdf</link>
+            </entry>
+            <entry>
+              <link resource="33-Reading - About Joints.pdf">33-Reading - About Joints.pdf</link>
+            </entry>
+            <entrytbl cols="1">
+              <colspec colnum="1" colname="c1"/>
+              <tbody>
+                <row>
+                  <entry>2009. Anatomy and Biomechanics of the Hip Relevant to Arthroplasy. About Joints. &lt;<link url="http://aboutjoints.com/physicianinfo/topics/anatomyhip/biomechanicship.htm">http://aboutjoints.com/physicianinfo/topics/anatomyhip/biomechanicship.htm</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Garner B., 2003. Joint Anatomy. Baylor University. </entry>
+                </row>
+                <row>
+                  <entry>Hammoudi D., 2007. Bone and Joints: Introduction. Sinoe Medical Association. &lt;<link url="http://sinoemedicalassociation.org/AP/lectureBone.pdf">http://sinoemedicalassociation.org/AP/lectureBone.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Howard S. and Rivera D., 2001. The Hip Joint. Valdosta State University. &lt;<link url="http://coestudents.valdosta.edu/drivera/Pics/hip.ppt">http://coestudents.valdosta.edu/drivera/Pics/hip.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Maciel A., 2002. Biomechanics of Hip Joint Capsule. Swiss National Foundation. &lt;<link url="http://vrlab.epfl.ch/~amaciel/projects/HipJoint_summary.pdf">http://vrlab.epfl.ch/~amaciel/projects/HipJoint_summary.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Paul J., 1966. The Biomechanics of the Hip-joint and its Clinical Relevance. Proceedings of the Royal Society of Medicine 59(10): 943-948. &lt;<link url="http://www.pubmedcentral.nih.gov/picrender.fcgi?artid=1901095&amp;blobtype=pdf">http://www.pubmedcentral.nih.gov/picrender.fcgi?artid=1901095&amp;blobtype=pdf</link>&gt;.</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry>34</entry>
+            <entry>Hip:Biomechanical Properties</entry>
+            <entry>
+              <link resource="34-Slides - Hip Biomechanics.pdf">34-Slides - Hip Biomechanics.pdf</link>
+            </entry>
+            <entry>
+              <link resource="34-Reading - About Joints.pdf">34-Reading - About Joints.pdf</link>
+            </entry>
+            <entrytbl cols="1">
+              <colspec colnum="1" colname="c1"/>
+              <tbody>
+                <row>
+                  <entry>2009. Anatomy and Biomechanics of the Hip Relevant to Arthroplasy. About Joints. &lt;<link url="http://aboutjoints.com/physicianinfo/topics/anatomyhip/biomechanicship.htm">http://aboutjoints.com/physicianinfo/topics/anatomyhip/biomechanicship.htm</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Bajekal R., 2008. Biomechanics of the Hip. Barts and the London Basic Science. &lt;<link url="http://www.bartsandthelondon.org.uk/docs/bajekal_hip_biomechanics.pdf">www.bartsandthelondon.org.uk/docs/</link><link url="http://www.bartsandthelondon.org.uk/docs/bajekal_hip_biomechanics.pdf">bajekal_hip_biomechanics</link><link url="http://www.bartsandthelondon.org.uk/docs/bajekal_hip_biomechanics.pdf">.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Gough J., 2008. Biomechanics of the Hip and Related Science of Hip Arthroplasty. The University of Liverpool. &lt;<link url="http://musculoskeletalscience.co.uk/Documents/BIOMECHANICS OF THE HIP LECTURE 9TH JULY.ppt">http://musculoskeletalscience.co.uk/Documents/BIOMECHANICS OF THE HIP LECTURE 9TH JULY.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Howard S. and Rivera D., 2001. The Hip Joint. Valdosta State University. &lt;<link url="http://coestudents.valdosta.edu/drivera/Pics/hip.ppt">http://coestudents.valdosta.edu/drivera/Pics/hip.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Stone T., 2002. Hip Biomechanics and Osteotomies. Memorial University &lt;<link url="http://www.med.mun.ca/ortho/pages/Presentations/Hip Biomechanics and Osteotomies.ppt">http://www.med.mun.ca/ortho/pages/Presentations/Hip Biomechanics and Osteotomies.ppt</link>&gt;.</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry>35</entry>
+            <entry>Spine:Structural Components</entry>
+            <entry>
+              <link resource="35-Slides - Spine Biomechanics.pdf">35-Slides - Spine Biomechanics.pdf</link>
+            </entry>
+            <entry>
+              <link resource="35-Reading - Benzel.pdf">35-Reading - Benzel.pdf</link>
+            </entry>
+            <entrytbl cols="1">
+              <colspec colnum="1" colname="c1"/>
+              <tbody>
+                <row>
+                  <entry>Benzel E., Kayanja M., Fleischman A., and Roy S., 2006. Spine Biomechanics: Fundamentals and Future. Clinical Neurosurgery 53: 98-105. &lt;<link url="http://www.neurosurgeon.org/publications/clinical/53/pdf/cnb00106000098.pdf">http://www.neurosurgeon.org/publications/clinical/53/pdf/cnb00106000098.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Iatridis J., 2008. Spine Anatomy and Function. University of Vermont. &lt;<link url="http://www.emba.uvm.edu/%7Eiatridis/me207/spine_anatomy_function.pdf">http://www.emba.uvm.edu/~iatridis/me207/spine_anatomy_function.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Peeler J., 2008. Spine Biomechanics. University of Winnipeg.</entry>
+                </row>
+                <row>
+                  <entry>Troy M., 2008. Biomechanics of the Spine. Western Carolina University. &lt;<link url="http://paws.wcu.edu/mtroy/PE 423/Ch9overheads.doc">http://paws.wcu.edu/mtroy/PE 423/Ch9overheads.doc</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Yang J., 2002. Biomechanics of the Spine. San Francisco Orthopaedic Residency Program. &lt;<link url="http://www.sforp.org/Lecture Archives/Basic Science/Biomechanics of the Spine Yang 12.13.02.ppt">http://www.sforp.org/Lecture Archives/Basic Science/Biomechanics of the Spine Yang 12.13.02.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Yoon S., 2006. Spine Curriculum: Lecture #1 – Basic Principles Spinal Anatomy. Yoon Sung Hwan. &lt;<link url="http://www.nsspine.co.kr/06_leftmenu/lecture/files/10_spinal surgical anatomy.ppt">http://www.nsspine.co.kr/06_leftmenu/lecture/files/10_spinal surgical anatomy.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Ziv I., 2009. Spine Biomechanics, Intervertebral Disc &amp; LBP. University at Buffalo. &lt;<link url="http://wings.buffalo.edu/academic/department/eng/mae/courses/417-517/Orthopaedic Biomechanics/Lecture 12.ppt">http://wings.buffalo.edu/academic/department/eng/mae/courses/417-517/Orthopaedic Biomechanics/Lecture 12.ppt</link>&gt;.</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry>36</entry>
+            <entry>Spine:Biomechanical Properties</entry>
+            <entry>
+              <link resource="36-Slides - Spine Biomechanics.pdf">36-Slides - Spine Biomechanics.pdf</link>
+            </entry>
+            <entry>
+              <link resource="36-Reading - Rapoff.pdf">36-Reading - Rapoff.pdf</link>
+            </entry>
+            <entrytbl cols="1">
+              <colspec colnum="1" colname="c1"/>
+              <tbody>
+                <row>
+                  <entry>Iatridis J., 2008. Spine Anatomy and Function. University of Vermont. &lt;<link url="http://www.emba.uvm.edu/%7Eiatridis/me207/spine_anatomy_function.pdf">http://www.emba.uvm.edu/~iatridis/me207/spine_anatomy_function.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Peeler J., 2008. Spine Biomechanics. University of Winnipeg.</entry>
+                </row>
+                <row>
+                  <entry>Rapoff A., 2008. Spine Biomechanics. Union College. &lt;<link url="http://engineering.union.edu/~rapoffa/MER445/Module 7 Intervertebral Disc/Spine Biomechanics.pdf">http://engineering.union.edu/~rapoffa/MER445/Module 7 Intervertebral Disc/Spine Biomechanics.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Yang J., 2002. Biomechanics of the Spine. San Francisco Orthopaedic Residency Program. &lt;<link url="http://www.sforp.org/Lecture Archives/Basic Science/Biomechanics of the Spine Yang 12.13.02.ppt">http://www.sforp.org/Lecture Archives/Basic Science/Biomechanics of the Spine Yang 12.13.02.ppt</link>&gt;</entry>
+                </row>
+                <row>
+                  <entry>Ziv I., 2009. Spine Biomechanics, Intervertebral Disc &amp; LBP. University at Buffalo. &lt;<link url="http://wings.buffalo.edu/academic/department/eng/mae/courses/417-517/Orthopaedic Biomechanics/Lecture 12.ppt">http://wings.buffalo.edu/academic/department/eng/mae/courses/417-517/Orthopaedic Biomechanics/Lecture 12.ppt</link>&gt;.</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry>38</entry>
+            <entry>Introduction to Muscle:Anatomy</entry>
+            <entry>
+              <link resource="38-Slides - Muscle.pdf">38-Slides - Muscle.pdf</link>
+            </entry>
+            <entry>
+              <link resource="38-Reading - Rapoff.pdf">38-Reading - Rapoff.pdf</link>
+            </entry>
+            <entrytbl cols="1">
+              <colspec colnum="1" colname="c1"/>
+              <tbody>
+                <row>
+                  <entry>Garner B., 2004. Human Muscles. Baylor University. </entry>
+                </row>
+                <row>
+                  <entry>Ju M-S., 2004. Biomechanics of Skeletal Muscle. National Cheng Kung University. &lt;<link url="http://www.me.ncku.edu.tw/%7Eengblgy/research8/Biomechanics of Skeletal Muscle.ppt">http://www.me.ncku.edu.tw/~engblgy/research8/Biomechanics of Skeletal Muscle.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Legh B., 2009. High Performance Strength and Conditioning. University of British Columbia. &lt;<link url="http://www.hkin.educ.ubc.ca/faculty/leghb/HKIN303/303notes1.ppt">www.hkin.educ.ubc.ca/faculty/leghb/HKIN303/</link><link url="http://www.hkin.educ.ubc.ca/faculty/leghb/HKIN303/303notes1.ppt">303notes1</link><link url="http://www.hkin.educ.ubc.ca/faculty/leghb/HKIN303/303notes1.ppt">.</link><link url="http://www.hkin.educ.ubc.ca/faculty/leghb/HKIN303/303notes1.ppt">ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Peeler J., 2008. Skeletal Muscle Biomechanics. University of Winnipeg. </entry>
+                </row>
+                <row>
+                  <entry>Rapoff A., 2008. Structure and Function of Skeletal Muscle. Union College. &lt;<link url="http://engineering.union.edu/~rapoffa/MER445/Module 5 Skeletal Muscle/Brinckmann et al Chapter 13.pdf">http://engineering.union.edu/~rapoffa/MER445/Module 5 Skeletal Muscle/Brinckmann et al Chapter 13.pdf</link>&gt;.</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry>39</entry>
+            <entry>Introduction to Muscle:Micro- and Macro-Structure</entry>
+            <entry>
+              <link resource="39-Slides - Muscle.pdf">39-Slides - Muscle.pdf</link>
+            </entry>
+            <entry/>
+            <entrytbl cols="1">
+              <colspec colnum="1" colname="c1"/>
+              <tbody>
+                <row>
+                  <entry>Brown E., 2004. Advanced Biomechanics of Physical Activity: Muscle – Structure, Function, and Electromechanical Characteristics. Michigan State University. &lt;<link url="https://www.msu.edu/course/kin/831/Muscle.ppt">https://www.msu.edu/course/kin/831/Muscle.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Garner B., 2004. Human Muscles. Baylor University.</entry>
+                </row>
+                <row>
+                  <entry>Garner B., 2004. Muscle Physiology. Baylor University.</entry>
+                </row>
+                <row>
+                  <entry>Legh B., 2009. High Performance Strength and Conditioning. University of British Columbia. &lt;<link url="http://www.hkin.educ.ubc.ca/faculty/leghb/HKIN303/303notes1.ppt">www.hkin.educ.ubc.ca/faculty/leghb/HKIN303/</link><link url="http://www.hkin.educ.ubc.ca/faculty/leghb/HKIN303/303notes1.ppt">303notes1</link><link url="http://www.hkin.educ.ubc.ca/faculty/leghb/HKIN303/303notes1.ppt">.</link><link url="http://www.hkin.educ.ubc.ca/faculty/leghb/HKIN303/303notes1.ppt">ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Rapoff A., 2008. Skeletal Muscle. Union College. &lt;<link url="http://engineering.union.edu/~rapoffa/MER445/Module 5 Skeletal Muscle/MuscleDetails.pdf">http://engineering.union.edu/~rapoffa/MER445/Module 5 Skeletal Muscle/MuscleDetails.pdf</link>&gt;.</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry>40</entry>
+            <entry>Introduction to Muscle:Mechanics</entry>
+            <entry>
+              <link resource="40-Slides - Muscle.pdf">40-Slides - Muscle.pdf</link>
+            </entry>
+            <entry/>
+            <entrytbl cols="1">
+              <colspec colnum="1" colname="c1"/>
+              <tbody>
+                <row>
+                  <entry>Garner B., 2004. Human Muscles. Baylor University. </entry>
+                </row>
+                <row>
+                  <entry>Hamill J., 2008. Biomechanics of Skeletal Muscle. Ergonet. &lt;<link url="http://www.ergonet.com.br/download/biomechanics_skeletal.ppt">http://www.ergonet.com.br/download/biomechanics_skeletal.ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Legh B., 2009. High Performance Strength and Conditioning. University of British Columbia. &lt;<link url="http://www.hkin.educ.ubc.ca/faculty/leghb/HKIN303/303notes1.ppt">www.hkin.educ.ubc.ca/faculty/leghb/HKIN303/</link><link url="http://www.hkin.educ.ubc.ca/faculty/leghb/HKIN303/303notes1.ppt">303notes1</link><link url="http://www.hkin.educ.ubc.ca/faculty/leghb/HKIN303/303notes1.ppt">.</link><link url="http://www.hkin.educ.ubc.ca/faculty/leghb/HKIN303/303notes1.ppt">ppt</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Prestwich K., 2003. The Biomechanics of Skeletal Muscles. Holy Cross College. &lt;<link url="http://www.holycross.edu/departments/biology/kprestwi/physiology/phys_pdf/Phys_Lect2_Contractility_pdf/Phys03_11_SkMusBiophys.pdf">http://www.holycross.edu/departments/biology/kprestwi/physiology/phys_pdf/Phys_Lect2_Contractility_pdf/Phys03_11_SkMusBiophys.pdf</link>&gt;.</entry>
+                </row>
+                <row>
+                  <entry>Seeley M., 2008. Muscle Mechanics: What Contributes to Muscular Force Production? Brigham Young University. &lt;<link url="http://neon.byu.edu/~seeleym/exsc362(seeley)/chapter09_files/muscle_and_tendon_biomech.pdf">http://neon.byu.edu/~seeleym/exsc362(seeley)/chapter09_files/muscle_and_tendon_biomech.pdf</link>&gt;.</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </content>
+</document>

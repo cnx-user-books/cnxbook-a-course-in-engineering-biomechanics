@@ -1,0 +1,3 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col10759</md:content-id>  <md:title>A course in  Engineering Biomechanics</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>        <md:uuid>c8ec2827-88c7-455d-9d25-b5148b0d376b</md:uuid>
+<md:slug>a-course-in-engineering-biomechanics</md:slug>
+</metadata>  <col:content>          <col:module document="m29709"/>                            <col:module document="m27924"/>                    </col:content></col:collection>
